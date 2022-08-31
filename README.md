@@ -4,4 +4,4 @@ NPM     : 1006123456
 
 Kelas   : Z
 
-asu anjing
+23.57
